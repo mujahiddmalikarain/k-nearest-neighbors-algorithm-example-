@@ -1,2 +1,2 @@
-# k-nearest-neighbors-algorithm-example-iris dataset
-knn iris Dataset case study
+# k-nearest-neighbors-algorithm-example-
+kNN case study 1
