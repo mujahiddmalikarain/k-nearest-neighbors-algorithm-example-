@@ -1,0 +1,8 @@
+  Use case study  iris data set classifies through KNN Algorithm
+
+following are the Steps in KNN
+1: importing the labraries
+2: Loading the DataSet
+3: Data Visualization and Data Normalization
+4: spilting the dataset into Training and Testing 
+5: Train model and predictinf from model
